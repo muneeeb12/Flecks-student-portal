@@ -1,0 +1,38 @@
+/* styles.css */
+
+/* Style for the overall container */
+div.transcript {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* Style for each semester container */
+div.semester {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+/* Style for each course card */
+div.card {
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+/* Heading style for semesters and courses */
+h2, h3 {
+    color: #333;
+}
+
+/* Grade style */
+p.grade {
+    font-weight: bold;
+    margin: 0;
+}
+
+/* Other details style */
+p {
+    margin: 5px 0;
+}
